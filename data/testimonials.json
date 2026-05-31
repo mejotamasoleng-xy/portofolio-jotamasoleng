@@ -1,0 +1,21 @@
+[
+  {
+    "id": "t1",
+    "nama": "Pak Hendra Setiawan",
+    "jabatan": "Pemilik Kedai & Roastery",
+    "perusahaan": "Kahawa Kopi",
+    "avatar_url": "",
+    "rating": 5,
+    "konten": "Aplikasi kasir buatan Mas Jotama sangat membantu kelancaran usaha kami. Sebelumnya kasir kami sering salah hitung pesanan kopi variasi es/sugar level. Sekarang, transaksi selesai kurang dari 30 detik dan stok biji kopi terpotong otomatis!",
+    "tanggal": "2026-05-18"
+  },
+  {
+    "id": "t2",
+    "nama": "Santi Rahayu",
+    "jabatan": "Partner Bisnis & UMKM",
+    "perusahaan": "Artha Capital Ventures",
+    "rating": 5,
+    "konten": "Kami mencari AI builder yang bisa merancang solusi nyata dengan eksekusi visual premium dan fungsionalitas murni di lapangan, bukan sekadar teori. Jotama Soleng menunjukkan bukti produk kasir terintegrasi yang andal dan solutif.",
+    "tanggal": "2026-05-24"
+  }
+]

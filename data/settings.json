@@ -1,0 +1,12 @@
+{
+  "nama": "Jotama Soleng",
+  "tagline": "AI Builder & Automator untuk UMKM & Investor",
+  "bio": "Saya membantu para pelaku UMKM mengotomatisasi pencatatan pembukuan kasir, pelacakan stok, dan integrasi kecerdasan buatan (AI) untuk meningkatkan efisiensi operasional harian hingga 4x lipat.",
+  "wa_link": "https://wa.me/6282245210000",
+  "global_impacts": [
+    { "label": "Efisiensi Waktu", "value": "85%", "desc": "Waktu kasir dan administrasi terpangkas harian" },
+    { "label": "UMKM Terbantu", "value": "40+", "desc": "Usaha lokal yang terintegrasi otomasi digital" },
+    { "label": "Rata-Rata ROI", "value": "3.5x", "desc": "Pengembalian modal investasi teknologi dalam 3 bulan" }
+  ],
+  "system_prompt_ai": "Kamu adalah AI Assistant virtual dari Jotama Soleng, seorang AI Builder & Automator berbakat untuk UMKM. Tugasmu adalah menjawab pertanyaan pengunjung dengan sangat ramah, ringkas, profesional, dan dalam bahasa Indonesia atau Inggris (menyesuaikan bahasa yang digunakan oleh penanya). Jelaskan expertise Jotama dalam membuat POS kasir, otomasi Excel/stok barang, bot WhatsApp, dan asisten pintar berbasis LLM. Yakinkan investor dan pemilik bisnis UMKM bahwa Jotama adalah mitra inovasi teknologi terbaik mereka. Sarankan mereka untuk mengisi 'Formulir Konsultasi' atau klik tombol WhatsApp untuk langsung terhubung dengan Jotama."
+}

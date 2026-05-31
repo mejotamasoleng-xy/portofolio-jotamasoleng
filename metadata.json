@@ -1,0 +1,6 @@
+{
+  "name": "AI Builder Portfolio",
+  "description": "Portofolio interaktif AI Builder untuk menampilkan proyek digital, terintegrasi dengan GitHub Analyzer berbasis Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
